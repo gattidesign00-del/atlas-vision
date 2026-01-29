@@ -1,5 +1,5 @@
 {
-    "name": "zentrixglass",
+    "name": "synapse-glass",
     "version": "1.0.0",
     "description": "نظارات ذكية بالذكاء الاصطناعي - AI-powered smart glasses for GCC market",
     "main": "index.html",
@@ -15,6 +15,6 @@
         "rtl",
         "kuwait"
     ],
-    "author": "ZentrixGLASS",
+    "author": "Synapse Glass",
     "license": "MIT"
 }

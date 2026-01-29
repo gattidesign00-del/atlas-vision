@@ -1,8 +1,8 @@
-# ZentrixGLASS - Smart Glasses Landing Page
+# Synapse Glass - Smart Glasses Landing Page
 
 ## 🌟 Sobre o Projeto
 
-Landing page premium para ZentrixGLASS - Óculos inteligentes com tradução em tempo real e assistente AI.
+Landing page premium para Synapse Glass - Óculos inteligentes com tradução em tempo real e assistente AI.
 
 ### Características:
 - ✅ Design moderno e responsivo
@@ -25,7 +25,7 @@ Landing page premium para ZentrixGLASS - Óculos inteligentes com tradução em 
 ├── vercel.json            # Configuração Vercel
 ├── package.json           # Metadados do projeto
 ├── favicon.png            # Ícone do site
-├── logo.png               # Logo ZentrixGLASS
+├── synapse-logo.png       # Logo Synapse Glass
 ├── hero-bg.png            # Imagem hero
 ├── product-1.png          # Imagens do produto
 ├── product-2.png
